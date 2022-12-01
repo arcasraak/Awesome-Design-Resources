@@ -24,6 +24,7 @@ Tool | Description
 [**Adobe Kuler**](https://color.adobe.com) | Easy to create and modify color palette with Adobe.
 [**Paletton**](https://paletton.com) | Designed to help all sorts of color projects, from professional work to your kids school projects. 
 [**Colllor**](http://www.colllor.com) | Create consistent color palettes. 
+[**Branition Colors**](https://branition.com/colors) | Hand-curated collection of color palettes best fitted for branding.
 
 # Design Inspiration 💡
 Software | Description
